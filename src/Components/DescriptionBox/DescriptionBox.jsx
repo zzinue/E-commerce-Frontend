@@ -10,7 +10,7 @@ const DescriptionBox = () => {
       </div>
       <div className="descriptionbox-description">
         <p>
-          Crafting compelling product descriptions is crucial for attracting and
+          Cambiar esto a spanish compelling product descriptions is crucial for attracting and
           converting customers in the e-commerce space. Here's a guide to help
           you create effective product descriptions:
         </p>
